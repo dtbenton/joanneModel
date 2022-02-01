@@ -1,0 +1,66 @@
+addNet assocModel
+
+#Input groups
+addGroup Shape 9 INPUT
+addGroup Color 9 INPUT
+addGroup Feature 2 INPUT
+addGroup Motion 2 INPUT
+
+#Hidden groups
+addGroup Hidden 10
+
+#Output groups
+addGroup Shape_OUT 9 OUTPUT
+addGroup Color_OUT 9 OUTPUT
+addGroup Feature_OUT 2 OUTPUT
+addGroup Motion_OUT 2 OUTPUT
+
+#Connect groups
+connectGroups {Shape Color Feature Motion} Hidden {Shape_OUT Color_OUT Feature_OUT Motion_OUT}
+
+#Load files
+loadExamples test_cc.ex
+loadExamples test_ci.ex
+loadExamples test_hc.ex
+loadExamples test_hi.ex
+loadExamples train_ID1.ex
+loadExamples train_ID2.ex
+loadExamples train_ID3.ex
+loadExamples train_ID4.ex
+loadExamples train_ID5.ex
+loadExamples train_ID6.ex
+loadExamples train_ID7.ex
+loadExamples train_ID8.ex
+loadExamples train_ID9.ex
+loadExamples train_ID10.ex
+loadExamples train_ID11.ex
+loadExamples train_ID12.ex
+loadExamples train_ID13.ex
+loadExamples train_ID14.ex
+loadExamples train_ID15.ex
+loadExamples train_ID16.ex
+loadExamples train_ID17.ex
+loadExamples train_ID18.ex
+loadExamples train_ID19.ex
+loadExamples train_ID20.ex
+loadExamples train_ID21.ex
+loadExamples train_ID22.ex
+loadExamples train_ID23.ex
+loadExamples train_ID24.ex
+
+#Set learning and display parameters
+setObj learningRate 0.08
+setObj momentum 0.9
+setObj batchSize 0
+setObj numUpdates 10
+setObj reportInterval 1
+setObj unitCellSize 30
+
+# the commands below specify how the network will be displayed in Lens
+resetPlot
+plotRow 5 b 2 n Shape_OUT 3 b 2 n Color_OUT 3 b 2 n Feature_OUT 2 b 2 n Motion_OUT 2
+plotRow 3 b 5 n Hidden 5
+plotRow 5 b 2 n Shape 3 b 2 n Color 3 b 2 n Feature 2 b 2 n Motion 2
+
+drawUnits
+viewUnits
