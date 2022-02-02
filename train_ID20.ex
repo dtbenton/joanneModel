@@ -143,6 +143,7 @@ T:
 1 0
 (Motion_OUT)
 1 0
+;
 
 name: EighthExample
 I:
