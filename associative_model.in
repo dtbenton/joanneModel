@@ -23,8 +23,8 @@ loadExamples test_cc.ex
 loadExamples test_ci.ex
 loadExamples test_hc.ex
 loadExamples test_hi.ex
-loadExamples train_ID1.ex
-loadExamples train_ID2.ex
+loadExamples train_ID1.ex 
+loadExamples train_ID2.ex 
 loadExamples train_ID3.ex
 loadExamples train_ID4.ex
 loadExamples train_ID5.ex
