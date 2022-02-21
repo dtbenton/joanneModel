@@ -72,7 +72,7 @@ proc printActivation {group unit} {
 
 proc saveActivations {fname groups} { 
     set outfile [open $fname a] 
-    puts $outfile "[getObj currentExample.num] [getObj currentExample.name] [getObj currentTick] " nonewline 
+    puts $outfile "[getObj currentExample.num] [getObj currentExample.name] " nonewline 
     printUnitValues -$outfile printActivation $groups 
     puts $outfile "\n" nonewline 
     close $outfile 
