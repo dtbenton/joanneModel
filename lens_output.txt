@@ -1,145 +1,146 @@
-0 TestExample1 0 0.983 0.020 0.992 0.007 
-1 TestExample2 0 1.000 0.000 0.009 0.991 
-0 TestExample1 0 0.766 0.279 0.999 0.002 
-1 TestExample2 0 0.999 0.001 0.004 0.996 
-0 TestExample1 0 0.993 0.007 0.921 0.051 
-1 TestExample2 0 0.999 0.001 0.004 0.997 
-0 TestExample1 0 0.000 1.000 1.000 0.000 
-1 TestExample2 0 0.004 0.997 0.625 0.344 
-0 TestExample1 0 0.002 0.997 1.000 0.000 
-1 TestExample2 0 0.233 0.721 0.780 0.426 
-0 TestExample1 0 0.004 0.996 1.000 0.000 
-1 TestExample2 0 0.022 0.977 0.739 0.388 
-0 TestExample1 0 0.010 0.991 0.987 0.013 
-1 TestExample2 0 0.000 1.000 0.004 0.997 
-0 TestExample1 0 0.004 0.994 0.960 0.035 
-1 TestExample2 0 0.000 1.000 0.003 0.996 
-0 TestExample1 0 0.012 0.991 0.842 0.127 
-1 TestExample2 0 0.001 0.999 0.001 0.998 
-0 TestExample1 0 0.998 0.002 0.999 0.001 
-1 TestExample2 0 0.949 0.034 0.487 0.636 
-0 TestExample1 0 0.998 0.002 1.000 0.000 
-1 TestExample2 0 0.823 0.235 0.851 0.236 
-0 TestExample1 0 0.999 0.001 0.999 0.000 
-1 TestExample2 0 0.714 0.254 0.506 0.641 
-0 TestExample1 0 1.000 0.000 0.018 0.982 
-1 TestExample2 0 0.974 0.044 0.999 0.002 
-0 TestExample1 0 1.000 0.000 0.001 0.998 
-1 TestExample2 0 0.995 0.004 0.836 0.111 
-0 TestExample1 0 1.000 0.001 0.003 0.997 
-1 TestExample2 0 0.973 0.036 0.991 0.010 
-0 TestExample1 0 0.053 0.946 0.513 0.511 
-1 TestExample2 0 0.004 0.996 0.999 0.001 
-0 TestExample1 0 0.071 0.921 0.250 0.707 
-1 TestExample2 0 0.002 0.998 1.000 0.000 
-0 TestExample1 0 0.058 0.950 0.727 0.294 
-1 TestExample2 0 0.003 0.996 1.000 0.000 
-0 TestExample1 0 0.000 1.000 0.004 0.996 
-1 TestExample2 0 0.130 0.764 0.999 0.002 
-0 TestExample1 0 0.000 1.000 0.003 0.997 
-1 TestExample2 0 0.011 0.987 0.996 0.005 
-0 TestExample1 0 0.000 1.000 0.003 0.997 
-1 TestExample2 0 0.002 0.997 0.968 0.043 
-0 TestExample1 0 0.934 0.059 0.481 0.577 
-1 TestExample2 0 0.997 0.002 0.998 0.003 
-0 TestExample1 0 0.989 0.013 0.926 0.077 
-1 TestExample2 0 0.998 0.003 1.000 0.000 
-0 TestExample1 0 0.908 0.079 0.601 0.468 
-1 TestExample2 0 0.995 0.003 1.000 0.000 
-0 TestExample1 0 0.945 0.035 0.989 0.007 
-1 TestExample2 0 0.998 0.002 0.003 0.996 
-0 TestExample1 0 0.991 0.007 0.967 0.026 
-1 TestExample2 0 1.000 0.000 0.001 0.999 
-0 TestExample1 0 0.950 0.045 0.992 0.009 
-1 TestExample2 0 0.998 0.002 0.004 0.996 
-0 TestExample1 0 0.007 0.992 1.000 0.000 
-1 TestExample2 0 0.229 0.730 0.655 0.548 
-0 TestExample1 0 0.002 0.999 0.998 0.001 
-1 TestExample2 0 0.175 0.862 0.159 0.785 
-0 TestExample1 0 0.001 0.999 1.000 0.000 
-1 TestExample2 0 0.018 0.988 0.922 0.102 
-0 TestExample1 0 0.009 0.995 0.977 0.021 
-1 TestExample2 0 0.000 0.999 0.001 0.999 
-0 TestExample1 0 0.017 0.967 0.986 0.014 
-1 TestExample2 0 0.000 1.000 0.008 0.993 
-0 TestExample1 0 0.001 0.999 0.803 0.106 
-1 TestExample2 0 0.000 1.000 0.000 0.999 
-0 TestExample1 0 0.998 0.001 1.000 0.000 
-1 TestExample2 0 0.911 0.056 0.595 0.394 
-0 TestExample1 0 0.992 0.006 1.000 0.000 
-1 TestExample2 0 0.949 0.065 0.457 0.574 
-0 TestExample1 0 0.998 0.002 1.000 0.000 
-1 TestExample2 0 0.949 0.048 0.952 0.050 
-0 TestExample1 0 0.999 0.001 0.005 0.995 
-1 TestExample2 0 0.994 0.008 0.967 0.029 
-0 TestExample1 0 1.000 0.000 0.001 0.999 
-1 TestExample2 0 0.985 0.014 0.985 0.020 
-0 TestExample1 0 0.999 0.001 0.010 0.988 
-1 TestExample2 0 0.984 0.010 0.991 0.007 
-0 TestExample1 0 0.324 0.844 0.531 0.340 
-1 TestExample2 0 0.003 0.998 1.000 0.000 
-0 TestExample1 0 0.574 0.506 0.684 0.297 
-1 TestExample2 0 0.003 0.997 1.000 0.000 
-0 TestExample1 0 0.109 0.928 0.665 0.292 
-1 TestExample2 0 0.002 0.998 0.999 0.001 
-0 TestExample1 0 0.000 1.000 0.015 0.989 
-1 TestExample2 0 0.024 0.955 0.995 0.005 
-0 TestExample1 0 0.000 1.000 0.001 0.998 
-1 TestExample2 0 0.007 0.995 0.949 0.053 
-0 TestExample1 0 0.000 1.000 0.001 0.999 
-1 TestExample2 0 0.000 1.000 0.608 0.483 
-0 TestExample1 0 0.750 0.257 0.696 0.286 
-1 TestExample2 0 0.997 0.003 1.000 0.000 
-0 TestExample1 0 0.978 0.021 0.705 0.310 
-1 TestExample2 0 0.999 0.001 1.000 0.000 
-0 TestExample1 0 0.912 0.091 0.463 0.609 
-1 TestExample2 0 0.998 0.002 1.000 0.001 
-0 TestExample1 0 0.987 0.016 0.991 0.009 
-1 TestExample2 0 0.999 0.001 0.005 0.995 
-0 TestExample1 0 0.852 0.185 0.999 0.002 
-1 TestExample2 0 0.999 0.001 0.011 0.991 
-0 TestExample1 0 0.952 0.052 0.996 0.003 
-1 TestExample2 0 0.999 0.001 0.016 0.985 
-0 TestExample1 0 0.023 0.968 1.000 0.000 
-1 TestExample2 0 0.681 0.441 0.561 0.533 
-0 TestExample1 0 0.040 0.952 0.996 0.003 
-1 TestExample2 0 0.233 0.736 0.391 0.542 
-0 TestExample1 0 0.066 0.935 1.000 0.000 
-1 TestExample2 0 0.374 0.721 0.623 0.357 
-0 TestExample1 0 0.138 0.855 0.987 0.016 
-1 TestExample2 0 0.001 0.999 0.004 0.998 
-0 TestExample1 0 0.012 0.981 0.987 0.007 
-1 TestExample2 0 0.000 1.000 0.003 0.995 
-0 TestExample1 0 0.001 1.000 0.867 0.104 
-1 TestExample2 0 0.000 1.000 0.005 0.995 
-0 TestExample1 0 0.995 0.004 1.000 0.000 
-1 TestExample2 0 0.971 0.042 0.889 0.105 
-0 TestExample1 0 0.986 0.009 0.998 0.001 
-1 TestExample2 0 0.566 0.333 0.256 0.542 
-0 TestExample1 0 0.995 0.005 0.999 0.002 
-1 TestExample2 0 0.926 0.063 0.370 0.545 
-0 TestExample1 0 1.000 0.000 0.002 0.998 
-1 TestExample2 0 0.994 0.005 0.984 0.014 
-0 TestExample1 0 1.000 0.000 0.003 0.996 
-1 TestExample2 0 0.991 0.007 0.985 0.012 
-0 TestExample1 0 1.000 0.000 0.002 0.999 
-1 TestExample2 0 0.998 0.007 0.957 0.046 
-0 TestExample1 0 0.053 0.960 0.834 0.232 
-1 TestExample2 0 0.002 0.998 1.000 0.000 
-0 TestExample1 0 0.819 0.160 0.132 0.870 
-1 TestExample2 0 0.011 0.988 0.998 0.003 
-0 TestExample1 0 0.014 0.994 0.546 0.401 
-1 TestExample2 0 0.001 0.999 0.999 0.000 
-0 TestExample1 0 0.000 1.000 0.005 0.997 
-1 TestExample2 0 0.003 0.996 0.958 0.062 
-0 TestExample1 0 0.000 1.000 0.002 0.998 
-1 TestExample2 0 0.022 0.984 0.983 0.014 
-0 TestExample1 0 0.000 1.000 0.001 0.999 
-1 TestExample2 0 0.011 0.988 0.984 0.021 
-0 TestExample1 0 0.719 0.358 0.848 0.138 
-1 TestExample2 0 0.995 0.006 1.000 0.000 
-0 TestExample1 0 0.975 0.017 0.952 0.092 
-1 TestExample2 0 0.998 0.001 1.000 0.000 
-0 TestExample1 0 0.874 0.177 0.845 0.243 
-1 TestExample2 0 0.996 0.004 1.000 0.000 
-0 TestExample1 0 0.002 0.998 0 TestExample1 0 0.037 0.969 
+ID	test_example	feature_1	feature_2	motion_1	motion_2
+0	TestExample1	0.983	0.02	0.992	0.007
+1	TestExample2	1	0	0.009	0.991
+0	TestExample1	0.766	0.279	0.999	0.002
+1	TestExample2	0.999	0.001	0.004	0.996
+0	TestExample1	0.993	0.007	0.921	0.051
+1	TestExample2	0.999	0.001	0.004	0.997
+0	TestExample1	0	1	1	0
+1	TestExample2	0.004	0.997	0.625	0.344
+0	TestExample1	0.002	0.997	1	0
+1	TestExample2	0.233	0.721	0.78	0.426
+0	TestExample1	0.004	0.996	1	0
+1	TestExample2	0.022	0.977	0.739	0.388
+0	TestExample1	0.01	0.991	0.987	0.013
+1	TestExample2	0	1	0.004	0.997
+0	TestExample1	0.004	0.994	0.96	0.035
+1	TestExample2	0	1	0.003	0.996
+0	TestExample1	0.012	0.991	0.842	0.127
+1	TestExample2	0.001	0.999	0.001	0.998
+0	TestExample1	0.998	0.002	0.999	0.001
+1	TestExample2	0.949	0.034	0.487	0.636
+0	TestExample1	0.998	0.002	1	0
+1	TestExample2	0.823	0.235	0.851	0.236
+0	TestExample1	0.999	0.001	0.999	0
+1	TestExample2	0.714	0.254	0.506	0.641
+0	TestExample1	1	0	0.018	0.982
+1	TestExample2	0.974	0.044	0.999	0.002
+0	TestExample1	1	0	0.001	0.998
+1	TestExample2	0.995	0.004	0.836	0.111
+0	TestExample1	1	0.001	0.003	0.997
+1	TestExample2	0.973	0.036	0.991	0.01
+0	TestExample1	0.053	0.946	0.513	0.511
+1	TestExample2	0.004	0.996	0.999	0.001
+0	TestExample1	0.071	0.921	0.25	0.707
+1	TestExample2	0.002	0.998	1	0
+0	TestExample1	0.058	0.95	0.727	0.294
+1	TestExample2	0.003	0.996	1	0
+0	TestExample1	0	1	0.004	0.996
+1	TestExample2	0.13	0.764	0.999	0.002
+0	TestExample1	0	1	0.003	0.997
+1	TestExample2	0.011	0.987	0.996	0.005
+0	TestExample1	0	1	0.003	0.997
+1	TestExample2	0.002	0.997	0.968	0.043
+0	TestExample1	0.934	0.059	0.481	0.577
+1	TestExample2	0.997	0.002	0.998	0.003
+0	TestExample1	0.989	0.013	0.926	0.077
+1	TestExample2	0.998	0.003	1	0
+0	TestExample1	0.908	0.079	0.601	0.468
+1	TestExample2	0.995	0.003	1	0
+0	TestExample1	0.945	0.035	0.989	0.007
+1	TestExample2	0.998	0.002	0.003	0.996
+0	TestExample1	0.991	0.007	0.967	0.026
+1	TestExample2	1	0	0.001	0.999
+0	TestExample1	0.95	0.045	0.992	0.009
+1	TestExample2	0.998	0.002	0.004	0.996
+0	TestExample1	0.007	0.992	1	0
+1	TestExample2	0.229	0.73	0.655	0.548
+0	TestExample1	0.002	0.999	0.998	0.001
+1	TestExample2	0.175	0.862	0.159	0.785
+0	TestExample1	0.001	0.999	1	0
+1	TestExample2	0.018	0.988	0.922	0.102
+0	TestExample1	0.009	0.995	0.977	0.021
+1	TestExample2	0	0.999	0.001	0.999
+0	TestExample1	0.017	0.967	0.986	0.014
+1	TestExample2	0	1	0.008	0.993
+0	TestExample1	0.001	0.999	0.803	0.106
+1	TestExample2	0	1	0	0.999
+0	TestExample1	0.998	0.001	1	0
+1	TestExample2	0.911	0.056	0.595	0.394
+0	TestExample1	0.992	0.006	1	0
+1	TestExample2	0.949	0.065	0.457	0.574
+0	TestExample1	0.998	0.002	1	0
+1	TestExample2	0.949	0.048	0.952	0.05
+0	TestExample1	0.999	0.001	0.005	0.995
+1	TestExample2	0.994	0.008	0.967	0.029
+0	TestExample1	1	0	0.001	0.999
+1	TestExample2	0.985	0.014	0.985	0.02
+0	TestExample1	0.999	0.001	0.01	0.988
+1	TestExample2	0.984	0.01	0.991	0.007
+0	TestExample1	0.324	0.844	0.531	0.34
+1	TestExample2	0.003	0.998	1	0
+0	TestExample1	0.574	0.506	0.684	0.297
+1	TestExample2	0.003	0.997	1	0
+0	TestExample1	0.109	0.928	0.665	0.292
+1	TestExample2	0.002	0.998	0.999	0.001
+0	TestExample1	0	1	0.015	0.989
+1	TestExample2	0.024	0.955	0.995	0.005
+0	TestExample1	0	1	0.001	0.998
+1	TestExample2	0.007	0.995	0.949	0.053
+0	TestExample1	0	1	0.001	0.999
+1	TestExample2	0	1	0.608	0.483
+0	TestExample1	0.75	0.257	0.696	0.286
+1	TestExample2	0.997	0.003	1	0
+0	TestExample1	0.978	0.021	0.705	0.31
+1	TestExample2	0.999	0.001	1	0
+0	TestExample1	0.912	0.091	0.463	0.609
+1	TestExample2	0.998	0.002	1	0.001
+0	TestExample1	0.987	0.016	0.991	0.009
+1	TestExample2	0.999	0.001	0.005	0.995
+0	TestExample1	0.852	0.185	0.999	0.002
+1	TestExample2	0.999	0.001	0.011	0.991
+0	TestExample1	0.952	0.052	0.996	0.003
+1	TestExample2	0.999	0.001	0.016	0.985
+0	TestExample1	0.023	0.968	1	0
+1	TestExample2	0.681	0.441	0.561	0.533
+0	TestExample1	0.04	0.952	0.996	0.003
+1	TestExample2	0.233	0.736	0.391	0.542
+0	TestExample1	0.066	0.935	1	0
+1	TestExample2	0.374	0.721	0.623	0.357
+0	TestExample1	0.138	0.855	0.987	0.016
+1	TestExample2	0.001	0.999	0.004	0.998
+0	TestExample1	0.012	0.981	0.987	0.007
+1	TestExample2	0	1	0.003	0.995
+0	TestExample1	0.001	1	0.867	0.104
+1	TestExample2	0	1	0.005	0.995
+0	TestExample1	0.995	0.004	1	0
+1	TestExample2	0.971	0.042	0.889	0.105
+0	TestExample1	0.986	0.009	0.998	0.001
+1	TestExample2	0.566	0.333	0.256	0.542
+0	TestExample1	0.995	0.005	0.999	0.002
+1	TestExample2	0.926	0.063	0.37	0.545
+0	TestExample1	1	0	0.002	0.998
+1	TestExample2	0.994	0.005	0.984	0.014
+0	TestExample1	1	0	0.003	0.996
+1	TestExample2	0.991	0.007	0.985	0.012
+0	TestExample1	1	0	0.002	0.999
+1	TestExample2	0.998	0.007	0.957	0.046
+0	TestExample1	0.053	0.96	0.834	0.232
+1	TestExample2	0.002	0.998	1	0
+0	TestExample1	0.819	0.16	0.132	0.87
+1	TestExample2	0.011	0.988	0.998	0.003
+0	TestExample1	0.014	0.994	0.546	0.401
+1	TestExample2	0.001	0.999	0.999	0
+0	TestExample1	0	1	0.005	0.997
+1	TestExample2	0.003	0.996	0.958	0.062
+0	TestExample1	0	1	0.002	0.998
+1	TestExample2	0.022	0.984	0.983	0.014
+0	TestExample1	0	1	0.001	0.999
+1	TestExample2	0.011	0.988	0.984	0.021
+0	TestExample1	0.719	0.358	0.848	0.138
+1	TestExample2	0.995	0.006	1	0
+0	TestExample1	0.975	0.017	0.952	0.092
+1	TestExample2	0.998	0.001	1	0
+0	TestExample1	0.874	0.177	0.845	0.243
+1	TestExample2	0.996	0.004	1	0
+0	TestExample1	0.002	0.998	0 Tes	tExample1 0 0.037 0.969
